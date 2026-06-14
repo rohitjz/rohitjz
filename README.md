@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I lead product for Copilot search in Microsoft 365, and I still build with my own hands.
+  I lead product for Copilot Search in Microsoft 365.
 </p>
 
 <p align="center">
@@ -22,9 +22,7 @@
 
 ### About
 
-I'm a Group Product Manager at Microsoft AI, where I lead the product work behind Copilot search in Microsoft 365: helping people find the right answer when it's spread across mail, chats, files, and the web. Before Microsoft, I built product at Agoda (Booking Holdings) and EA.
-
-I lead product, and I never stopped building. I prototype with AI, write specs that ship, and keep a portfolio of tools I build in the open.
+I'm a Group Product Manager at Microsoft AI, where I lead the product work behind Copilot Search in Microsoft 365: helping people find the right entities and answer in seconds. Before Microsoft, I built product at Agoda (Booking Holdings) and EA Games.
 
 - 🧠 &nbsp;Focus: AI product strategy, search relevance, and experimentation at scale
 - 👥 &nbsp;Lead and grow a team of product managers
