@@ -36,8 +36,6 @@ I lead product, and I never stopped building. I prototype with AI, write specs t
 
 ### Selected work
 
-A few things I've built and shared.
-
 | Project | What it is |
 | --- | --- |
 | [**claude-for-pms**](https://github.com/rohitjz/claude-for-pms) | Drop-in Claude skills and frameworks for product managers |
