@@ -32,16 +32,6 @@ I'm a Group Product Manager at Microsoft AI, where I lead the product work behin
 
 ---
 
-### Selected work
-
-| Project | What it is |
-| --- | --- |
-| [**claude-for-pms**](https://github.com/rohitjz/claude-for-pms) | Drop-in Claude skills and frameworks for product managers |
-| [**learn-ai-from-basic-to-advanced**](https://github.com/rohitjz/learn-ai-from-basic-to-advanced) | A 42-topic AI curriculum, basics to advanced, with interactive demos |
-| [**Design-vibes**](https://github.com/rohitjz/Design-vibes) | Design themes and prompts for building beautiful AI interfaces |
-| [**Experiment-Telescope**](https://github.com/rohitjz/Experiment-Telescope) | A tool for designing precise, well-powered experiments |
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-jaiswal">LinkedIn</a> &nbsp;·&nbsp;
