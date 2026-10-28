@@ -34,7 +34,7 @@ I'm a Group Product Manager at Microsoft AI, where I lead the product work behin
 
 ### Agent skills
 
-17 skills for Claude Code and GitHub Copilot, organized by category in **[rohitjz/skills](https://github.com/rohitjz/skills)**:
+**Get AI work you'd put your name on.** My skills for Claude Code and GitHub Copilot, in **[rohitjz/skills](https://github.com/rohitjz/skills)** ([browse](https://rohitjz.github.io/skills/)):
 
 - 🎨 &nbsp;**Design:** [analog-ui](https://github.com/rohitjz/skills/tree/main/skills/design/analog-ui) ([gallery](https://rohitjz.github.io/skills/skills/design/analog-ui/gallery/)), [elevate-ui](https://github.com/rohitjz/skills/tree/main/skills/design/elevate-ui), [glassify](https://github.com/rohitjz/skills/tree/main/skills/design/glassify)
 - 🧭 &nbsp;**Product strategy:** [distinctive-positioning](https://github.com/rohitjz/skills/tree/main/skills/product-strategy/distinctive-positioning), [council](https://github.com/rohitjz/skills/tree/main/skills/product-strategy/council)
