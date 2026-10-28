@@ -36,7 +36,7 @@ I'm a Group Product Manager at Microsoft AI, where I lead the product work behin
 
 17 skills for Claude Code and GitHub Copilot, organized by category in **[rohitjz/skills](https://github.com/rohitjz/skills)**:
 
-- 🎨 &nbsp;**Design:** [sketchbook-ui](https://github.com/rohitjz/skills/tree/main/skills/design/sketchbook-ui), [elevate-ui](https://github.com/rohitjz/skills/tree/main/skills/design/elevate-ui), [glassify](https://github.com/rohitjz/skills/tree/main/skills/design/glassify)
+- 🎨 &nbsp;**Design:** [analog-ui](https://github.com/rohitjz/skills/tree/main/skills/design/analog-ui) ([gallery](https://rohitjz.github.io/skills/skills/design/analog-ui/gallery/)), [elevate-ui](https://github.com/rohitjz/skills/tree/main/skills/design/elevate-ui), [glassify](https://github.com/rohitjz/skills/tree/main/skills/design/glassify)
 - 🧭 &nbsp;**Product strategy:** [distinctive-positioning](https://github.com/rohitjz/skills/tree/main/skills/product-strategy/distinctive-positioning), [council](https://github.com/rohitjz/skills/tree/main/skills/product-strategy/council)
 - ✍️ &nbsp;**Writing and presenting:** [pm-writing](https://github.com/rohitjz/skills/tree/main/skills/writing-and-presenting/pm-writing), [patrick-winston-presentation](https://github.com/rohitjz/skills/tree/main/skills/writing-and-presenting/patrick-winston-presentation)
 - 📈 &nbsp;**Finance:** [10 equity-research skills](https://github.com/rohitjz/skills/tree/main/skills/finance) (DCF, LBO, comps, earnings, and more)
